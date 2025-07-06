@@ -19,3 +19,13 @@ The function works as expected. It consistently returns `n * 2` for the inputs t
 
 **Result:**  
 The function works as expected. It consistently returns `n * n` for the inputs tested.
+
+## isEven(n)
+
+**Inputs & Actual Outputs:**
+- `isEven(5)` → false
+- `isEven(8)` → true
+- `isEven(-7)` → false
+
+**Result:**  
+The function works as expected. It consistently returns 'false' for odd inputs and 'true' for even inputs.

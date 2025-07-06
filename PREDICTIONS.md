@@ -9,3 +9,8 @@ This function will take a number `n` and return `n` multiplied by 2.
 
 **Prediction:**  
 This function will take a number `n` and return `n` multiplied by itself.
+
+## isEven(n)
+
+**Prediction:**  
+This function will take a number `n` and return either true if the the number is even and false if the number is odd.
