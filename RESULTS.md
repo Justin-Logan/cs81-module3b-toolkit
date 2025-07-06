@@ -39,3 +39,13 @@ The function works as expected. It consistently returns 'false' for odd inputs a
 
 **Result:**  
 The function works as expected. It consistently returns 'true' for odd inputs and 'false' for even inputs.
+
+## multiply(n, n1)
+
+**Inputs & Actual Outputs:**
+- `isOdd(5, 2)` → 10
+- `isOdd(8, 34)` → 272
+- `isOdd(-7, 7)` → -49
+
+**Result:**  
+The function works as expected. It consistently returns the product of inputs n1 and n2.

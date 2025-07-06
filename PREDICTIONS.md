@@ -19,3 +19,8 @@ This function will take a number `n` and return either true if the the number is
 
 **Prediction:**  
 This function will take a number `n` and return either true if the the number is odd and false if the number is even.
+
+## multiply(n, n1)
+
+**Prediction:**  
+This function will return the product of n1 and n2.

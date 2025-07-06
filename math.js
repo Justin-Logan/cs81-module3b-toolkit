@@ -19,3 +19,7 @@ function isOdd(n) {
     }
     return false;
 }
+
+function multiply(n, n1) {
+    return n * n2;
+}
