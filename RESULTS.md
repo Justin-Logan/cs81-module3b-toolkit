@@ -29,3 +29,13 @@ The function works as expected. It consistently returns `n * n` for the inputs t
 
 **Result:**  
 The function works as expected. It consistently returns 'false' for odd inputs and 'true' for even inputs.
+
+## isOdd(n)
+
+**Inputs & Actual Outputs:**
+- `isOdd(5)` → true
+- `isOdd(8)` → false
+- `isOdd(-7)` → true
+
+**Result:**  
+The function works as expected. It consistently returns 'true' for odd inputs and 'false' for even inputs.
